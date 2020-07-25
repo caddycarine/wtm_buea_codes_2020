@@ -1,2 +1,2 @@
 def reverse(text):
-    return ''.join([letter for letter in reversed(text)])
+    return ''.join(reversed(text))
